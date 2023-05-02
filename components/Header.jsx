@@ -55,7 +55,7 @@ const Header = () => {
     <header
       className={`w-full h-[50px] md:h-[80px] flex items-center justify-between z-20 sticky top-0 duration-300 ${show}`}
     >
-      <Wrapper className="h-[60px] flex justify-between items-center bg-white dark:bg-gray-700 text-black dark:text-white">
+      <Wrapper className="h-[60px] flex justify-between items-center bg-white dark:bg-gray-700 text-black dark:text-white border-gray-300 dark:border-gray-700">
         <div className={isDark ? "dark" : "light"}>
           <Link href="/">
             {isDark ? (
