@@ -1,0 +1,49 @@
+Dependencies
+
+1) `@next/font` (version: 13.1.6)
+- A Next.js module that optimizes font loading and improves rendering performance on web pages.
+
+2) `@reduxjs/toolkit` (version: 1.9.3)
+- A package that provides utilities and functions to simplify working with Redux.
+
+3) `@stripe/react-stripe.js` (version: 1.16.5)
+- A package that provides a set of React components for working with Stripe.
+
+4) `@stripe/stripe-js` (version: 1.48.0)
+- A package that provides a JavaScript library for working with Stripe.
+
+5) `eslint` (version: 8.34.0)
+- A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+
+6) `eslint-config-next` (version: 13.1.6)
+- A package that provides a set of ESLint rules for use in Next.js applications.
+
+7) `next` (version: 13.1.6)
+- A framework for building server-rendered React Applications.
+
+8) `react` (version: 18.2.0)
+- A JavaScript library for building user interfaces.
+
+9) `react-dom` (version: 18.2.0)
+- A package that provides the DOM-specific functionality for React.
+
+10) `react-icons` (version: 4.7.1)
+- A package that provides a set of SVG icons for use in React projects.
+
+11) `react-markdown` (version: 8.0.5)
+- A package that provides a React component for rendering Markdown content.
+
+12) `react-multi-carousel` (version: 2.8.2)
+- A package that provides a set of React components for building carousel content.
+
+13) `react-redux` (version: 8.0.5)
+- A package that provides a set of React bindings for Redux.
+
+14) `react-responsive-carousel` (version: 3.2.23)
+- A package that provides a set of React components for building responsive carousel.
+
+15) `react-toastify` (version: 9.1.1)
+- A package that provides a set of React components for displaying notifications.
+
+16) `swr` (version: 2.1.0)
+- A package that provides a React hook for data fetching and caching.
