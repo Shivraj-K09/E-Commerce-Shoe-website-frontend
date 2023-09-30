@@ -52,7 +52,7 @@ const ProductDetails = () => {
               {/* Heading Start  */}
               <div className="flex justify-between mb-2">
                 <div className="text-md font-bold">Size Select</div>
-                <div className="text-md font-medium text-black hover:underline cursor-pointer">
+                <div className="text-md font-medium text-white hover:underline cursor-pointer">
                   Select Guide
                 </div>
               </div>
